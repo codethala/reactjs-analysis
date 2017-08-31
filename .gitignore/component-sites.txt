@@ -1,0 +1,39 @@
+
+
+
+
+UI Tools Overview
+
+Some description goes here….
+
+Tools & Framework
+
+https://www.styled-components.comhttps://preactjs.com/
+https://github.com/developit/preact-cli
+https://github.com/wub/preact-cli-plugin-typescript
+https://storybook.js.org/We need GitHub
+
+access for faster development between team mates and for better  version management.
+
+Note: All UI Developers
+Should request Access for intellij and Vs Code for coding since we are going to
+be using typescript
+
+Component ReactJS libraries to consider
+
+https://styleguide.cfapps.io
+http://react-toolbox.com
+http://elemental-ui.com/
+https://grommet.github.io/
+http://jxnblk.com/rebass/getting-started
+
+
+Graph D3 for ReactJS just in case
+
+http://www.reactd3.org/components/
+
+Redux vs other Frameworks
+
+We still haven’t decided on this yet we will come back to it
+later on
+
